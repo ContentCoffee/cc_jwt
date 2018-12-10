@@ -1,0 +1,5 @@
+name: 'CC JWT'
+type: module
+description: 'JWT Overrides'
+package: Content Coffee
+core: '8.x'

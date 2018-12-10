@@ -1,0 +1,8 @@
+{
+  "name": "contentcoffee/cc_jwt",
+  "description": "D8+ module to make some JWT overrides for the JWT contrib.",
+  "require": {
+    "php": "^5.6 || ^7.0"
+  },
+  "type": "drupal-module"
+}
