@@ -3,3 +3,8 @@ type: module
 description: 'JWT Overrides'
 package: Content Coffee
 core: '8.x'
+dependencies:
+  - jwt
+  - key
+  - jwt_auth_consumer
+  - jwt_auth_issuer
